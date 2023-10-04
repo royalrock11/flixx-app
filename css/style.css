@@ -8,7 +8,7 @@
 
 :root {
   --color-primary: #020d18;
-  --color-secondary: #f1c40f;
+  --color-secondary: #ff914d;
 }
 
 body {
@@ -337,16 +337,15 @@ section h2 {
 
 /* Alert */
 .alert {
-  background: red;
   padding: 10px 20px;
   margin-bottom: 20px;
   border-radius: 5px;
 }
 
-.alert-success {
+.success {
   background: green;
 }
 
-.alert-error {
+.error {
   background: red;
 }
